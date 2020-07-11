@@ -1,4 +1,4 @@
-### The github page of PhD Student in HCI working on mixed reality interfaces for education ! 
+### The github page of a PhD Student in HCI working on mixed reality interfaces for education ! 
 
 - 🔭 I’m currently working on a Mixed Reality Setup for kids at school 
 - 🤓 In my 3rd and final year of PhD
